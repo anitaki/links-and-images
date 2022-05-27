@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
+  overflow-y: hidden;
 }
 
 body {
@@ -42,7 +43,16 @@ a:hover {
 .hero-img {
   width: 35%;
   margin: 0 auto;
-}
+  padding: 1rem;
+  border: 1px dotted transparent;
+  border-radius: 5px;
+ }
+
+ .hero-img:hover {
+   border: 1px dotted green;
+ 
+ 
+ }
 
 .hero h2 {
   width: 50%;
