@@ -1,2 +1,2 @@
 # links-and-images
- html & css brainnest assignment
+ Brainnest html & css assignment
