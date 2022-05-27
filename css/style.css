@@ -46,13 +46,11 @@ a:hover {
   padding: 1rem;
   border: 1px dotted transparent;
   border-radius: 5px;
- }
+}
 
- .hero-img:hover {
-   border: 1px dotted green;
- 
- 
- }
+.hero-img:hover {
+  border: 1px dotted green;
+}
 
 .hero h2 {
   width: 50%;
